@@ -3,7 +3,7 @@
 A machine learning web app that predicts whether a loan will be approved or not based on applicant details.
 
 ## 🚀 Live Demo
-Coming soon...
+👉 [Click here to try the app](https://creditwise-loan-system-mdakffrhbi92hyvazerlta.streamlit.app/)
 
 ## 📌 Project Overview
 This project uses machine learning to predict loan approvals based on factors like credit score, income, savings, DTI ratio and more.
